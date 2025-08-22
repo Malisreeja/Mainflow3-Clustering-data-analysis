@@ -81,8 +81,10 @@ By analyzing **Age, Annual Income, and Spending Score**, we group customers into
 - **Python**
 - **Pandas**, **NumPy** (Data handling)  
 - **Scikit-learn** (Clustering, Scaling, PCA, t-SNE)  
-- **Matplotlib**, **Seaborn** (Visualizations)  
+- **Matplotlib**, **Seaborn** (Visualizations)
+- This project demonstrates how clustering can uncover **hidden patterns in customer data**.  
+It provides both **technical analysis** and **business recommendations**, making it valuable for **marketing strategy and decision-making**.
 
 BY AUTHOUR---- Mali Sreeja 
-This project demonstrates how clustering can uncover **hidden patterns in customer data**.  
-It provides both **technical analysis** and **business recommendations**, making it valuable for **marketing strategy and decision-making**.
+
+
